@@ -31,6 +31,39 @@
    
 </details>
 
+<details>
+  <summary>object oriented programming</summary>
+   Object-oriented programming is a way of writing code where you group related data and actions into reusable "objects," kind of like organizing tools into labeled boxes.
+</details>
+
+
+<details>
+  <summary>procedural languages</summary>
+   Procedural Languages focus on procedures (functions) that operate on data in a linear top-down sequence.
+</details>
+
+<details>
+  <summary>Java class</summary>
+  In Java, a class is like a blueprint that defines the structure and behavior (data and actions) of objects you can create from it.
+</details>
+
+
+<details>
+  <summary>Java Method</summary>
+  A method in Java is a block of code inside a class that performs a specific task when it's called.
+</details>
+
+
+<details>
+  <summaryconsole></summary>
+  The area of a computer that notes from a program can be printed to. Kind of like a notebook.  
+</details>
+
+
+
+
+
+
 
 
 
